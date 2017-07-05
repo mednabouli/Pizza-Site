@@ -1,0 +1,15 @@
+http://lapatedor.com/
+http://lapatedor.com/index.php
+http://lapatedor.com/about.php
+http://lapatedor.com/menu.php
+http://lapatedor.com/gallery.php
+http://lapatedor.com/reservations.php
+http://lapatedor.com/contact.php
+http://lapatedor.com/pizza.php
+http://lapatedor.com/calzone.php
+http://lapatedor.com/manakish.php
+http://lapatedor.com/sambousa.php
+http://lapatedor.com/drink.php
+http://lapatedor.com/ice.php
+http://lapatedor.com/pizzaviande.php
+http://lapatedor.com/pizzamer.php
